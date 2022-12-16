@@ -1,6 +1,13 @@
+Backend Teste Dsin
+
+A tecnologia utilizada para desenvolver a aplicação foi:
+NodeJs
+
+Para instalar as dependências utilize o comando:
 
 $ npm install
 
+Para criar as tabelas utilize o comando:
 $ npx knex migrate:latest
 
 $ npx knex seed:run
